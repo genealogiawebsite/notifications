@@ -1,26 +1,26 @@
 {
-    "name": "laravel-enso/notifications",
+    "name": "genealogiawebsite/notifications",
     "description": "Push notifications dependency for LaravelEnso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "notifications",
         "push-notifications",
         "laravel-notifications"
     ],
-    "homepage": "https://github.com/laravel-enso/notifications",
+    "homepage": "https://github.com/genealogiawebsite/notifications",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "laravel-enso/core": "^5.0|^6.0",
-        "laravel-enso/migrator": "^2.0",
+        "genealogiawebsite/core": "^5.0|^6.0",
+        "genealogiawebsite/migrator": "^2.0",
         "php": ">=7.4.0",
         "pusher/pusher-php-server": "^4.0"
     },
